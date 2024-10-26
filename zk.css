@@ -1,0 +1,38 @@
+#countdown-container {
+    text-align: center;
+    margin-top: 50px; /* 根据需要调整 */
+}
+
+#countdown-text {
+    font-size: 24px;
+    color: #333;
+}
+
+#countdown {
+    font-size: 48px;
+    font-weight: bold;
+    color: #0056b3;
+}
+
+#countdown span {
+    margin: 0 10px;
+}
+#countdown-containera {
+    text-align: center;
+    margin-top: 50px; /* 根据需要调整 */
+}
+
+#countdown-texta {
+    font-size: 24px;
+    color: #333;
+}
+
+#countdowna {
+    font-size: 48px;
+    font-weight: bold;
+    color: #0056b3;
+}
+
+#countdown span {
+    margin: 0 10px;
+}
